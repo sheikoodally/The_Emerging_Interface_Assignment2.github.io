@@ -6,6 +6,9 @@
 .pages div{
     padding-bottom: .5em;
 }
+body{
+    box-sizing: border-box;
+}
 
 #home{
     padding-bottom: 5em;
