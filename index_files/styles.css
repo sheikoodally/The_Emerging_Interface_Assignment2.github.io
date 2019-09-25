@@ -3225,4 +3225,14 @@
           margin-right: 0px;
           box-sizing: border-box;
       }
+
+
+      footer{
+        position: fixed;
+        left: 0;
+        bottom: 0;
+        width: 100%;
+        height: auto;
+        text-align: center;
+    }
   }
