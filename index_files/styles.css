@@ -3221,10 +3221,14 @@
   
   @media only screen and (min-width: 750px) {
       #paddingRight{
-          padding-right: 0px;
-          margin-right: 0px;
           box-sizing: border-box;
+          justify-content: space-around;
       }
+
+      #paddingRight1{
+        box-sizing: border-box;
+        justify-content: space-around;
+    }
 
       footer{
         position: fixed;
